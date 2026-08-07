@@ -35,3 +35,6 @@ __pycache__
 #vscode 
 .vscode
 
+# Local reference copy
+ICDM2025/
+
